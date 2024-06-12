@@ -5,6 +5,9 @@ Welcome to the Weather App! This application provides weather information based 
 ## Live Demo
 
 You can access the live application here: [Weather App](https://kraftshala-weather.netlify.app/)
+## Video Demo
+
+You can watch a video demonstration of the application here: [Watch Video](https://www.loom.com/share/7a05286ef2a348258060de6ffa057df9?sid=b21fcd14-1d65-4a9c-96c3-e6e49908e976)
 
 ## Features
 
