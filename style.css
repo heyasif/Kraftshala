@@ -369,3 +369,6 @@ body {
     flex: 1 1 100%;
   }
 }
+#cityInput {
+  border: 1px solid var(--button-bg-color);
+}
